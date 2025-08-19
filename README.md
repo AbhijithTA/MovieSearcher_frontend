@@ -14,6 +14,15 @@ It is built with **React + Vite + TailwindCSS** and communicates with the backen
 
 ---
 
+---
+
+## 🌐 Live Preview
+👉 [Live Frontend Link](https://movie-searcher-frontend.vercel.app/)  
+
+⚠️ **Note:** The backend is hosted on **Render free tier**, so it may take **30–60 seconds** to wake up on the initial request. Please be patient if the API takes some time to respond at first.
+
+---
+
 
 
 ## 🛠️ Installation & Setup
