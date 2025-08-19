@@ -23,6 +23,14 @@ It is built with **React + Vite + TailwindCSS** and communicates with the backen
 
 ---
 
+## 👤 Demo User
+You can use the following demo credentials to test the app quickly:
+
+```
+Email: test@123.com
+
+Password: 123
+``
 
 
 ## 🛠️ Installation & Setup
