@@ -30,7 +30,7 @@ You can use the following demo credentials to test the app quickly:
 Email: test@123.com
 
 Password: 123
-``
+```
 
 
 ## 🛠️ Installation & Setup
